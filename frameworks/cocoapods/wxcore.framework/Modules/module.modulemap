@@ -1,0 +1,6 @@
+framework module wxcore {
+  umbrella header "wxcore.h"
+
+  export *
+  module * { export * }
+}
