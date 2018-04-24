@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "wxcore"
-  s.version      = "5.0.1"
+  s.version      = "5.0.2"
   s.summary      = "WuXieYun core lib."
 
   s.description  = <<-DESC

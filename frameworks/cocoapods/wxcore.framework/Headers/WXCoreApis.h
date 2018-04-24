@@ -333,6 +333,15 @@ typedef void (^FailedCallbackBlock)(NSError *error);
 #pragma mark - 公共接口
 
 
+
+/**
+ <#Description#>
+
+ @return <#return value description#>
+ */
++ (BOOL)isVisitor;
+
+
 /**
  <#Description#>
 

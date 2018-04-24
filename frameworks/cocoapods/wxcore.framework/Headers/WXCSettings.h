@@ -21,7 +21,7 @@
 #define KFDS_PASSPORT_TOKEN_TYPE    @"kfds_token_type"
 
 
-@interface KFDSCSettings : NSObject
+@interface WXCSettings : NSObject
 
 + (BOOL)isVisitor;
 

@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-@interface KFDSCUtils : NSObject
+@interface WXCUtils : NSObject
 
 +(NSString *)getCurrentDate;
 //

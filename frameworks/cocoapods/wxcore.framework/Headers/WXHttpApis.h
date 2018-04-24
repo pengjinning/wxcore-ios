@@ -372,7 +372,6 @@ typedef void (^FailedCallbackBlock)(NSError *error);
                 resultFailed:(FailedCallbackBlock)failed;
 
 
-
 - (void)uploadImageData:(NSData *)imageData
           withImageName:(NSString *)imageName
           resultSuccess:(SuccessCallbackBlock)success

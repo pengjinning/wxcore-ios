@@ -21,8 +21,8 @@ FOUNDATION_EXPORT const unsigned char wxcoreVersionString[];
 #import <wxcore/WXDBApis.h>
 #import <wxcore/WXHttpApis.h>
 #import <wxcore/KFDSCConstants.h>
-#import <wxcore/KFDSCUtils.h>
-#import <wxcore/KFDSCSettings.h>
+#import <wxcore/WXCUtils.h>
+#import <wxcore/WXCSettings.h>
 #import <wxcore/WXCNotify.h>
 
 #import <wxcore/WXThreadModel.h>
